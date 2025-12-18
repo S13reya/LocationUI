@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationUILibrary</string>
+        <string name="location_picker_title">Pick Location</string>
+        <string name="search_location_hint">Search location...</string>
+        <string name="confirm_location">Confirm Location</string>
+        <string name="my_location">My Location</string>
+        <string name="selected_location">Selected Location:</string>
+        <string name="move_map_to_select">Move map to select location</string>
+        <string name="location_permission_denied">Location permission denied</string>
+        <string name="location_not_found">Location not found</string>
+        <string name="please_select_location">Please select a location</string>
+        <string name="unable_to_get_location">Unable to get current location</string>
+        <string name="search_button">Search</string>
+        <string name="location_pin">Location Pin</string>
+
+</resources>

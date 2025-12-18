@@ -1,0 +1,20 @@
+<resources>
+    <declare-styleable name="LocationPickerView">
+        <attr name="initialLatitude" format="float" />
+        <attr name="initialLongitude" format="float" />
+        <attr name="initialZoom" format="float" />
+        <attr name="showSearchBar" format="boolean" />
+        <attr name="showSelectedAddress" format="boolean" />
+        <attr name="pinColor" format="color" />
+        <attr name="showZoomControls" format="boolean" />
+        <attr name="enableMapRotation" format="boolean" />
+        <attr name="showMyLocationButton" format="boolean" />
+        <attr name="searchIcon" format="reference" />
+        <attr name="searchIconWidth" format="dimension" />
+        <attr name="searchIconHeight" format="dimension" />
+        <attr name="searchTextColor" format="color" />
+        <attr name="searchHintColor" format="color" />
+        <attr name="selectedLocationTitleColor" format="color" />
+        <attr name="selectedLocationAddressColor" format="color" />
+    </declare-styleable>
+</resources>
