@@ -24,9 +24,10 @@ A custom **Location Picker View** library for Android that integrates Google Map
   # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc1cdd9a-37be-42aa-8aeb-ec654661af20"
+  <img src="https://github.com/user-attachments/assets/51b0e437-cc67-4e62-a3f4-a8951db3dde5"
        alt="Demo GIF"
        width="200">
+
 
 
 </p>
